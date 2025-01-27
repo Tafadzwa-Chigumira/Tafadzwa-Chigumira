@@ -54,13 +54,6 @@ I'm a passionate third-year Computer Engineering student with a keen interest in
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or discuss technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tafadzwa-chigumira).
