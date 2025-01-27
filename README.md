@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-banner-image-url.png" alt="Banner" width="100%">
+  <img src="banner.png" alt="Banner" width="100%">
   
   # 👨‍💻 Tafadzwa Chigumira
   
