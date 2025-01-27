@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Banner" width="70%" height="70%">
+  <img src="banner.png" alt="Banner" width="50%" height="50%">
   
   # 👨‍💻 Tafadzwa Chigumira
   
