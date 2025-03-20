@@ -69,5 +69,5 @@ I'm a passionate third-year Computer Engineering student with a keen interest in
 I'm always excited to collaborate on interesting projects or discuss technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tafadzwa-chigumira).
 
 <div align="center">
-  <i>⭐️ From [Tafadzwa-Chigumira](https://github.com/Tafadzwa-Chigumira)</i>
+  <i>⭐️ From ![Tafadzwa-Chigumira](https://github.com/Tafadzwa-Chigumira)</i>
 </div>
